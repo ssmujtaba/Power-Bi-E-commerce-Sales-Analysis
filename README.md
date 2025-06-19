@@ -146,7 +146,7 @@ The analysis resulted in a two-page interactive dashboard that tells a clear sto
 
 ### Page 1: Sales Overview
 
-*(Insert Screenshot of Sales Overview Page here by dragging and dropping the image onto the GitHub text editor)*
+<img width="1280" alt="Sales Overview" src="https://github.com/user-attachments/assets/3dcfc82b-4f0e-44f5-8dc4-5cc048031ba1" />
 
 * **Insight 1: Strong Growth & Seasonality:** The business experienced rapid growth through 2017, with a massive and predictable sales spike every **November**, likely driven by Black Friday.
 * **Insight 2: Business Maturity:** Sales in 2018 established a new, higher baseline compared to previous years, indicating the business has matured.
@@ -154,7 +154,7 @@ The analysis resulted in a two-page interactive dashboard that tells a clear sto
 
 ### Page 2: Product, Customer & Operational Details
 
-*(Insert Screenshot of Product & Customer Details Page here)*
+<img width="1280" alt="Product   Customer Details" src="https://github.com/user-attachments/assets/1c1d2bd7-f8a7-488a-9b78-49c16fa6c5ae" />
 
 * **Insight 1: Top Products:** **"beleza_saude" (Health & Beauty)** is a leading product category, representing a significant portion of sales.
 * **Insight 2: Geographic Concentration:** Over **60%** of all sales originate from the state of **São Paulo (SP)**, making it the company's core market.
